@@ -1,7 +1,7 @@
-<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font, 19px, with Hook Icon) -->
+<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font, 19px, with Share Icon) -->
 <p align="center">
   <a href="#">
-    🔗
+    <span style="color:#9B72FF; font-size:19px;">🔗</span>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=5500&pause=1000&color=9B72FF&center=true&vCenter=true&width=760&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
   </a>
 </p>
