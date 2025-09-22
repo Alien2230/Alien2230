@@ -128,7 +128,8 @@
 
 <h2><font color="white"> Bilal Azeem's GitHub Stats</font></h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=true&theme=black&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=true&theme=dark&count_private=true)
+
 
 ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alien2230&theme=radical)
 
