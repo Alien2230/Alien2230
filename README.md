@@ -6,6 +6,52 @@
 </p>
 
 
+<!-- Quote -->
+<h2 align="center" style="color:#A884FF">"Learning, Living, and Leveling up."</h2>
+
+---
+
+<!-- About Me -->
+<h3 align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="25px"/> 
+  <span style="background:#A884FF; color:white; padding:6px 14px; border-radius:6px;"> ABOUT ME </span>
+</h3>
+
+<!-- Profile Card -->
+<p align="center">
+  <img src="https://i.imgur.com/VmYp7K1.png" width="90" style="border-radius:50%;"/>  
+</p>
+
+<div align="center">
+  
+  ### Vinod Jangid  
+  [GitHub.com/vinodjangid07](https://github.com/Alien2230)  
+
+  ![Followers](https://img.shields.io/badge/👥-277-blue?style=for-the-badge)  
+  ![Repos](https://img.shields.io/badge/📚-47-pink?style=for-the-badge)  
+  ![Stars](https://img.shields.io/badge/⭐-435-fdd9a0?style=for-the-badge)  
+  ![Contributions](https://img.shields.io/badge/🚀-1216-lightgreen?style=for-the-badge)  
+
+</div>
+
+---
+
+<!-- Short Intro -->
+<table>
+  <tr>
+    <td width="200px">
+      <img src="https://i.imgur.com/zY6P3Rq.png" width="180px"/>
+    </td>
+    <td>
+      <p>👋 Hi, I’m A ...</p>
+      <p>💻 Frontend Developer & Digital Concept Artist ...</p>
+      <p>🎨 I’m looking for collaborations and making products ...</p>
+      <p>🔗 Visit <a href="#">Portfolio</a> to know more about me ...</p>
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- Social Links -->
 <p align="center">
