@@ -1,12 +1,8 @@
+<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font) -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="800" height="60">
-    <path id="path0" d="M 20 30 H 780" fill="none" stroke="none"/>
-    <text font-family="Fira Code, monospace" fill="#9B72FF" font-size="20" x="0%" letter-spacing="normal">
-      <textPath href="#path0">
-        "Learning, Living, and Leveling up."
-      </textPath>
-    </text>
-  </svg>
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=5000&pause=1000&color=9B72FF&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2" />
+  </a>
 </p>
 
 
