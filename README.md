@@ -1,9 +1,10 @@
-<!-- Typing + Slow Deleting Effect with Quotes -->
+<!-- Typing + Slow Deleting Effect with Quotes (Geist Font) -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=400&size=18&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" />
   </a>
 </p>
+
 
 
 
