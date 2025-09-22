@@ -1,50 +1,89 @@
-<!-- Profile Header -->
-<div align="center">
-  <div style="background:#0f0f12; padding:20px; border-radius:20px; display:flex; align-items:center; justify-content:space-between; max-width:900px; margin:auto;">
-    
-  <!-- Left: Avatar -->
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="profile" width="80" style="border-radius:50%; margin-right:20px;" />
-    
-  <!-- Middle: Name & GitHub -->
-  <div align="left" style="flex:1; color:white;">
-    <h2 style="margin:0;">Your Name</h2>
-    <p style="margin:0; color:#aaa;">github.com/yourusername</p>
-  </div>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 380" width="980" height="380" role="img" aria-label="Profile header">
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
 
-  <!-- Right: Stats -->
-  <div style="display:flex; gap:10px;">
-    <img src="https://img.shields.io/badge/Followers-277-blue?style=for-the-badge&logo=people" />
-    <img src="https://img.shields.io/badge/Repos-47-ff69b4?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/Stars-435-ffd27f?style=for-the-badge&logo=starship" />
-    <img src="https://img.shields.io/badge/Commits-1216-90ee90?style=for-the-badge&logo=git" />
-  </div>
+    <clipPath id="smallAvatarClip">
+      <!-- small circular avatar inside header -->
+      <circle cx="74" cy="70" r="34" />
+    </clipPath>
 
-  </div>
-</div>
+    <clipPath id="bigAvatarClip">
+      <!-- big avatar below -->
+      <rect x="40" y="140" rx="12" ry="12" width="140" height="140"/>
+    </clipPath>
 
----
+    <style type="text/css"><![CDATA[
+      .hdr-name { font: 700 22px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#ffffff; }
+      .hdr-user { font: 400 12px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#bdbdbd; }
+      .badge-num { font: 700 12px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial; fill:#0b1220; }
+      .about-title { font: 700 20px/1 "Courier New", Courier, monospace; fill:#0b1220; }
+      .about-line { font: 400 14px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial; fill:#222222; }
+      .link { text-decoration: underline; fill:#1a73e8; font-weight:600; }
+    ]]></style>
+  </defs>
 
-<!-- About Section -->
-<div align="center" style="display:flex; justify-content:center; gap:20px; margin-top:30px;">
+  <!-- Top rounded header -->
+  <rect x="20" y="20" width="940" height="100" rx="24" ry="24" fill="#0f0f12" filter="url(#shadow)"/>
+  <!-- subtle inner gradient band -->
+  <rect x="20" y="20" width="940" height="100" rx="24" ry="24" fill="url(#none)" opacity="0.03"/>
 
-  <!-- Left: Avatar -->
-  <div>
-    <img src="YOUR_AVATAR_URL" width="160" />
-    <p><b>HI, I AM<br>YOUR NAME</b></p>
-  </div>
+  <!-- small avatar inside header (replace href) -->
+  <image href="https://via.placeholder.com/68" x="40" y="36" width="68" height="68" clip-path="url(#smallAvatarClip)" preserveAspectRatio="xMidYMid slice"/>
+  <circle cx="74" cy="70" r="34" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 
-  <!-- Right: About Text -->
-  <div align="left">
+  <!-- name & username -->
+  <text x="122" y="58" class="hdr-name">Vinod Jangid</text>
+  <text x="122" y="86" class="hdr-user">GitHub.com/vinodjangid07</text>
 
-  👋 Hi, I’m a ... <br>
-  💻 Frontend Developer & Digital Concept Artist ... <br>
-  🤝 I’m looking for collaborations and making products ... <br>
-  🔗 Visit <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> to know more about me ...
+  <!-- Stats badges on right (rounded pills) -->
+  <!-- Badge 1 -->
+  <g transform="translate(500,52)">
+    <rect x="0" y="0" rx="18" ry="18" width="92" height="36" fill="#cfeeff"/>
+    <circle cx="22" cy="18" r="12" fill="#9ad6ff" />
+    <text x="42" y="22" class="badge-num">277</text>
+  </g>
 
-  </div>
-</div>
+  <!-- Badge 2 -->
+  <g transform="translate(604,52)">
+    <rect x="0" y="0" rx="18" ry="18" width="92" height="36" fill="#ffd6ea"/>
+    <circle cx="22" cy="18" r="12" fill="#ffb8d0" />
+    <text x="42" y="22" class="badge-num">47</text>
+  </g>
 
----
+  <!-- Badge 3 -->
+  <g transform="translate(708,52)">
+    <rect x="0" y="0" rx="18" ry="18" width="92" height="36" fill="#ffe9bf"/>
+    <circle cx="22" cy="18" r="12" fill="#ffd37a" />
+    <text x="42" y="22" class="badge-num">435</text>
+  </g>
 
-<!-- WakaTime / Activity -->
-![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)
+  <!-- Badge 4 -->
+  <g transform="translate(812,52)">
+    <rect x="0" y="0" rx="18" ry="18" width="92" height="36" fill="#d9ffd8"/>
+    <circle cx="22" cy="18" r="12" fill="#9ef2a7" />
+    <text x="42" y="22" class="badge-num">1216</text>
+  </g>
+
+  <!-- ---------------- About area (below header) ---------------- -->
+  <!-- Big avatar on left (replace href) -->
+  <image href="https://via.placeholder.com/160" x="40" y="140" width="140" height="140" clip-path="url(#bigAvatarClip)" preserveAspectRatio="xMidYMid slice" />
+  <rect x="40" y="140" width="140" height="140" rx="12" ry="12" fill="none" stroke="rgba(0,0,0,0.04)"/>
+
+  <!-- Inline title next to big avatar (single row with avatar) -->
+  <text x="220" y="170" class="about-title">HI, I AM VINOD</text>
+
+  <!-- About lines -->
+  <text x="220" y="200" class="about-line">👋 Hi, I’m A ...</text>
+  <text x="220" y="222" class="about-line">💻 Frontend Developer &amp; Digital Concept Artist ...</text>
+  <text x="220" y="244" class="about-line">🤝 I’m looking for collaborations and making products ...</text>
+
+  <!-- Portfolio link -->
+  <text x="220" y="274" class="about-line">Visit <tspan class="link">Portfolio</tspan> to know more about me ...</text>
+
+  <!-- WakaTime badge (replace YOUR_WAKATIME_ID) -->
+  <image href="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" x="40" y="310" width="180" height="28" />
+
+</svg>
