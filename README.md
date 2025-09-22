@@ -6,11 +6,10 @@
 </p>
 
 <!-- Short Intro -->
-<!-- Short Intro -->
 <table>
   <tr>
     <td width="200px" valign="top">
-      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="200px"/>
+      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px"/>
     </td>
     <td>
       👋 Hi, I’m A ...<br/>
@@ -21,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
