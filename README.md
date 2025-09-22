@@ -1,10 +1,9 @@
-<!-- Typing Effect with Partial Delete Simulation (Fira Code Font) -->
+<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font, Instant Restart) -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&duration=4000&pause=800&color=9B72FF&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling...%22;%22Learning%2C+Living%2C+and+Leveling+up.%22" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&duration=5200&pause=0&color=9a80f8&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
   </a>
 </p>
-
 
 
 
