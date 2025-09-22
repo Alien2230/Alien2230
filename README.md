@@ -1,6 +1,7 @@
-<h1 align="center">
-![Profile Header](https://raw.githubusercontent.com/Alien2230/Alien2230/main/Hello.png)
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alien2230/Alien2230/main/Hello.png" alt="Profile Header" />
+</div>
+
 
 
 <p align="center">
