@@ -90,73 +90,45 @@
   <img src="https://github.com/byllzz/byllzz/blob/main/tech-stack.svg" alt="Tech Stack" />
 </p>
 
-<!-- Tech Stack Icons -->
-<div align="center">
-
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-
-</br>
-
-<!-- Row 2 -->
-<img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="Tailwind CSS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-
-</br>
-<!-- Row 3 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-
-</div>
 
 
-<br><br>
-
-<!-- GitHub Stats Title -->
-<p align="left">
-  <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=true&theme=github_dark&hide_title=true" width="45%" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=github_dark" width="45%" />
-</div>
-
-
-
-
-# Hi there 👋
-
+```md
 ![Profile Views](https://komarev.com/ghpvc/?username=Alien2230&label=Profile%20views&color=blueviolet&style=flat)
 
 ---
 
-## 📊 Vinod Jangid's GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=true&theme=radical&count_private=true)
+<div align="left" style="background-color:#0d0d0d; padding:15px; border-radius:10px;">
 
-![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alien2230&theme=radical)
+<h2 style="color:white;">📊 Vinod Jangid's GitHub Stats</h2>
+
+<p style="color:#CACACA;">
+<img src="https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=true&theme=radical&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alien2230&theme=radical" />
+</p>
+</div>
 
 ---
 
-## 🎨 Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien2230&layout=compact&theme=radical)
+<div align="left" style="background-color:#0d0d0d; padding:15px; border-radius:10px;">
+
+<h2 style="color:white;">🎨 Most Used Languages</h2>
+
+<p style="color:#CACACA;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien2230&layout=compact&theme=radical" />
+</p>
+</div>
 
 ---
 
-## 🏆 Top Contributed Repo
-![Repo](https://github-contributor-stats.vercel.app/api?username=Alien2230&limit=2&theme=radical&combine_all_yearly_contributions=true)
+<div align="left" style="background-color:#0d0d0d; padding:15px; border-radius:10px;">
+
+<h2 style="color:white;">🏆 Top Contributed Repo</h2>
+
+<p style="color:#CACACA;">
+<img src="https://github-contributor-stats.vercel.app/api?username=Alien2230&limit=2&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+</div>
+```
 
 ---
 
