@@ -1,4 +1,7 @@
-<h1 align="center">Hello! I'm Bilal Malik ✨</h1>
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hello!%20I'm%20Bilal%20Malik&width=800&height=100" />
+</h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
