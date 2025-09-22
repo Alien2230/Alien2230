@@ -134,3 +134,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=github_dark" width="45%" />
 </div>
 
+
+
+
+# Hi there 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinodjangid07&label=Profile%20views&color=blueviolet&style=flat)
+
+---
+
+## 📊 Vinod Jangid's GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vinodjangid07&show_icons=true&theme=radical&count_private=true)
+
+![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodjangid07&theme=radical)
+
+---
+
+## 🎨 Most Used Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&layout=compact&theme=radical)
+
+---
+
+## 🏆 Top Contributed Repo
+![Repo](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=2&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
