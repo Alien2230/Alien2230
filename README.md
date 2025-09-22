@@ -6,20 +6,22 @@
 </p>
 
 <!-- Short Intro -->
+<!-- Short Intro -->
 <table>
   <tr>
-    <td width="200px">
-      <img src="https://i.imgur.com/zY6P3Rq.png" width="180px"/>
+    <td width="200px" valign="top">
+      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="200px"/>
     </td>
     <td>
       <p>👋 Hi, I’m A ...</p>
-      <p>💻 Frontend Developer &... </p>
-      <p>Digital Concept Artist ...</p>
-      <p>🎨 I’m looking for collaborations and making products ...</p>
-      <p> Visit <a href="#">Portfolio</a> to know more about me ...</p>
+      <p>💻 Frontend Developer &...</p>
+      <p>🎨 Digital Concept Artist ...</p>
+      <p>🚀 I’m looking for collaborations and making products ...</p>
+      <p>🔗 Visit <a href="#">Portfolio</a> to know more about me ...</p>
     </td>
   </tr>
 </table>
+
 
 <!-- 🚀 Social Links -->
 <p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
