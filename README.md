@@ -29,7 +29,7 @@
   <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a> &nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a> &nbsp;
   <a href="https://codepen.io/yourusername"><img src="https://skillicons.dev/icons?i=codepen" width="40"/></a>
-  <a href="https://codepen.io/yourusername"><img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="40" style="border-radius:50%;" /></a>
+  <a href="https://codepen.io/Alien2230"><img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="40" style="border-radius:50%;" /></a>
 </p>
 
 <!-- Tech Stack Badge -->
@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" title="Tailwind CSS"/>
   <br/>
 
   <!-- Row 2: UI Frameworks -->
