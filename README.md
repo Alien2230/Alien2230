@@ -1,7 +1,7 @@
-<!-- Typing Effect Header -->
+<!-- Typing + Deleting Effect with Quotes -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Learning%2C+Living%2C+and+Leveling+up.;Deleting...;Rewriting+in+Purple!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=400&color=A020F0&center=true&vCenter=true&width=700&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22">
   </a>
 </p>
 
