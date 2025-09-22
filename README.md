@@ -13,14 +13,15 @@
       <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="200px"/>
     </td>
     <td>
-      <p>👋 Hi, I’m A ...</p>
-      <p>💻 Frontend Developer &...</p>
-      <p>🎨 Digital Concept Artist ...</p>
-      <p>🚀 I’m looking for collaborations and making products ...</p>
-      <p>🔗 Visit <a href="#">Portfolio</a> to know more about me ...</p>
+      👋 Hi, I’m A ...<br/>
+      💻 Frontend Developer &...<br/>
+      🎨 Digital Concept Artist ...<br/>
+      🚀 I’m looking for collaborations and making products ...<br/>
+      🔗 Visit <a href="#">Portfolio</a> to know more about me ...
     </td>
   </tr>
 </table>
+
 
 
 <!-- 🚀 Social Links -->
