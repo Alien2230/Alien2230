@@ -6,15 +6,13 @@
 </p>
 </hr>
 
-![Alt text](https://raw.githubusercontent.com/Alien2230/Alien2230/main/gitabout.png)
-
-# <span style="color:white;">Hi there 👋</span>
+# <font color="white">Hi there 👋</font>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alien2230&label=Profile%20views&color=blueviolet&style=flat)
 
 ---
 
-<h2 style="color:white;">📊 Vinod Jangid's GitHub Stats</h2>
+<h2><font color="white">📊 Vinod Jangid's GitHub Stats</font></h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=true&theme=radical&count_private=true)
 
@@ -22,13 +20,13 @@
 
 ---
 
-<h2 style="color:white;">🎨 Most Used Languages</h2>
+<h2><font color="white">🎨 Most Used Languages</font></h2>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien2230&layout=compact&theme=radical)
 
 ---
 
-<h2 style="color:white;">🏆 Top Contributed Repo</h2>
+<h2><font color="white">🏆 Top Contributed Repo</font></h2>
 
 ![Repo](https://github-contributor-stats.vercel.app/api?username=Alien2230&limit=2&theme=radical&combine_all_yearly_contributions=true)
 
