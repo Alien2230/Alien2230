@@ -21,6 +21,34 @@
   </tr>
 </table>
 
+<!-- 🚀 Social Links -->
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
+
+  <!-- GitHub Avatar -->
+  <a href="https://github.com/vinodjangid07" target="_blank">
+    <img src="https://github.com/vinodjangid07.png" width="45" title="My GitHub"/>
+  </a>
+
+  <!-- Other Socials -->
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" title="Twitter"/>
+  </a>
+
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45" title="Instagram"/>
+  </a>
+
+  <a href="https://www.facebook.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" title="Facebook"/>
+  </a>
+
+</p>
+
+
 <!-- Social Links -->
 <p align="left">
   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> &nbsp;
