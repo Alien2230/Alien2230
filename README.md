@@ -128,14 +128,11 @@
 
 <h2><font color="white"> Bilal Azeem's GitHub Stats</font></h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=true&theme=dark&count_private=true)
-
-
-![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alien2230&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alien2230&show_icons=false&theme=dark&count_private=true)
 
 </br>
 
 <h2><font color="white">Most Used Languages</font></h2>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien2230&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alien2230&layout=compact&theme=dark)
 
