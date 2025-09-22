@@ -1,5 +1,10 @@
-<!-- Profile Header -->
-<h2 align="center">"Learning, Living, and Leveling up."</h2>
+<!-- Typing Effect Header -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Learning%2C+Living%2C+and+Leveling+up.;Deleting...;Rewriting+in+Purple!" />
+  </a>
+</p>
+
 
 ---
 
