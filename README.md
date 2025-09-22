@@ -5,16 +5,8 @@
   </a>
 </p>
 
+![Alt text](https://raw.githubusercontent.com/Alien2230/REPO/main/gitabout.png)
 
-
-
-
-
-
-
-
-
----
 
 <!-- Social Links -->
 <p align="center">
