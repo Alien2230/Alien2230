@@ -1,13 +1,11 @@
-<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font, 19px, with Share Badge) -->
-<p align="center" style="position: relative; display: inline-block;">
+<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font, 19px, with Hook Icon) -->
+<p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=5500&pause=1000&color=9B72FF&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
-  </a>
-  <!-- Share Badge -->
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Share-🔗-purple?style=flat-square&logo=github&logoColor=white" alt="share badge" />
+    🔗
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=5500&pause=1000&color=9B72FF&center=true&vCenter=true&width=760&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
   </a>
 </p>
+
 
 
 
