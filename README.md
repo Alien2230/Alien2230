@@ -10,6 +10,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Alien2230&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/vinodjangid07)
 <p align="left"><img align="left" src="poster.gif" width="200px"></p>
 <!-- <p align="left"><img align="left" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/80c5f1d3-51b2-4467-9ae8-694c90ed16ae" width="200px"></p> -->
+
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
